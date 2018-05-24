@@ -1,0 +1,321 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "fancy.py",
+			"settings":
+			{
+				"buffer_size": 2662,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "-*- coding: utf-8 -*-"
+			}
+		},
+		{
+			"file": "data.py",
+			"settings":
+			{
+				"buffer_size": 965,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "import numpy as np"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"material theme",
+				"Material Theme: Configuration"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Enable Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 228.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/sourabh/ULIRG_v2/scripts/galaxy_xreg_rotate.py",
+		"/home/sourabh/ULIRG_v2/scripts/galaxy_xreg+rotate.py",
+		"/home/sourabh/ULIRG_v2/scripts/anim_effective.py",
+		"/home/sourabh/.config/sublime-text-3/Packages/User/python36.sublime-build",
+		"/home/sourabh/.config/sublime-text-3/Packages/User/python35.sublime-build",
+		"/home/sourabh/ULIRG_v2/scripts/galaxy_sky__dark_sub_v5.py",
+		"/home/sourabh/bin/sublime_things.html",
+		"/home/sourabh/bin/test.py",
+		"/home/sourabh/.config/sublime-text-3/Packages/User/Anaconda.sublime-settings",
+		"/home/sourabh/.config/sublime-text-3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/home/sourabh/ch/1.php",
+		"/home/sourabh/s.txt",
+		"/home/sourabh/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/sourabh/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 52.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"animate",
+			"show",
+			"cur",
+			"cursor",
+			"add_root",
+			"theme",
+			"concat",
+			"DQ",
+			"chi",
+			"dq",
+			"hot",
+			"chi2",
+			"i == 2",
+			"i==2",
+			"A_best",
+			"data_dark",
+			"T>25",
+			"gal_key",
+			"key",
+			"ind_new",
+			"31n9",
+			"A_best",
+			"exp_time",
+			"dark_raw",
+			"hdu_dark",
+			"before",
+			"data_gal",
+			"input",
+			"aper_diff_gal",
+			"scp"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "fancy.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2662,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								241,
+								350
+							]
+						],
+						"settings":
+						{
+							"auto_name": "-*- coding: utf-8 -*-",
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "data.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 965,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								310,
+								310
+							]
+						],
+						"settings":
+						{
+							"auto_name": "import numpy as np",
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 39.0
+	},
+	"input":
+	{
+		"height": 56.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 241.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/ulirg.sublime-build",
+	"project": "bokeh.sublime-project",
+	"replace":
+	{
+		"height": 74.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 253.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
